@@ -215,7 +215,7 @@ Runs configurable validation rules from `abc.VALIDATION_CTRL_TBL` and logs resul
 │   ├── pl_c_source_to_raw.json             Child pipeline: Manifest + Source to Raw
 │   ├── pl_c_raw_to_replica.json            Child pipeline: Raw to Replica
 │   ├── pl_c_replica_to_refined.json        Child pipeline: Replica to Refined (SCD2)
-│   └── pl_gc_relica_data_validation.json   Sub-pipeline: Replica data validation
+│   └── pl_gc_replica_data_validation.json   Sub-pipeline: Replica data validation
 │
 └── screenshots/                            ADF pipeline canvases, Databricks workspace, Unity Catalog
     ├── README.md                           Annotated index of all screenshots
@@ -223,7 +223,7 @@ Runs configurable validation rules from `abc.VALIDATION_CTRL_TBL` and logs resul
     ├── pl_c_source_to_raw.png
     ├── pl_c_raw_to_replica.png
     ├── pl_c_replica_to_refined.png
-    ├── pl_gc_relica_data_validation.png
+    ├── pl_gc_replica_data_validation.png
     ├── adf_linked_services.png
     ├── adf_datasets.png
     ├── databricks_workspace.png

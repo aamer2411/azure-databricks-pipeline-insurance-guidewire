@@ -77,7 +77,7 @@ Child pipeline covering Stage 4 (SCD Type 2 transformation from replica to refin
 
 ---
 
-### `pl_gc_relica_data_validation.json` - Replica Data Validation
+### `pl_gc_replica_data_validation.json` - Replica Data Validation
 
 Sub-pipeline for data quality checks on the replica layer.
 

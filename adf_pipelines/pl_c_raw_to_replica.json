@@ -1242,7 +1242,7 @@
                 "userProperties": [],
                 "typeProperties": {
                     "pipeline": {
-                        "referenceName": "pl_gc_relica_data_validation",
+                        "referenceName": "pl_gc_replica_data_validation",
                         "type": "PipelineReference"
                     },
                     "waitOnCompletion": true,

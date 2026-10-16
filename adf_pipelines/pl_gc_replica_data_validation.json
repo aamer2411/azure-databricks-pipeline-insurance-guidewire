@@ -1,5 +1,5 @@
 {
-    "name": "pl_gc_relica_data_validation",
+    "name": "pl_gc_replica_data_validation",
     "properties": {
         "description": "Runs SQL-based data quality checks on replica tables after loading; flags failing rows and logs them — no rules configured yet. ",
         "activities": [
